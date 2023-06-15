@@ -1,6 +1,6 @@
 # Scenario-Planning-Tool-for-AtliQ-Hardware-using-Microsoft-Excel
 
-![Scenario Planning Tool]("Scenario_planning_tool_for_AtliQ_Hardware.jpg")
+![Scenario Planning Tool]("file:///C:/Users/abhin/OneDrive/Desktop/Scenario_planning_tool_for_AtliQ_Hardware.jpg")
 
 Overview:
 The purpose of this project is to develop a scenario planning tool using Microsoft Excel for AtliQ Hardware, a customer of Croma. The tool will enable AtliQ Hardware to analyze and forecast sales performance under different scenarios and evaluate their financial impact on the company. By providing insights into best-case, realistic, and worst-case scenarios, the tool will help AtliQ Hardware make informed business decisions and set appropriate targets.
